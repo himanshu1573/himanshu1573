@@ -1,3 +1,4 @@
+<img src="HIMANSHU PRAJAPATI (1).png" alt="banner that says Himanshu Prajapati - software developer, open source contributer,learning enthusiast">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1573&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1573" /> </p>
 
 <h1 align="center">
